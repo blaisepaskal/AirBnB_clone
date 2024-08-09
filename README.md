@@ -1,2 +1,2 @@
-# AirBnB_clone
+# HBNB
 This an AirBnB clone application
